@@ -16,3 +16,14 @@ sensors status and values, their treatments, and notes.
 He can also add or delete treatments or notes.
 The doctor is allowed to also to manage his appointments: either decline or approve it.
 As for the patient, on mobile, he’s allowed to monitor his health status, check the notes written by the doctor and the prescript treatment. He can also ask for an appointment.
+
+
+
+###############################################################################################################################
+
+
+Doctor.me est une solution conçue spécialement pour aider les médecins à contrôler leurs patients à distance, en ayant recours à des capteurs dont leur principale fonction est de collecter les données sur l’état du patient.
+
+Ce projet a été conçu dans le cadre du projet d’intégration mobile, réalisé par des étudiants en 4ième année de l’école ESPRIT.
+
+Composé de 4 parties, une application web, une application mobile, un capteur (systèmes embarqués) et collecte de données en Cloud, ce projet rassemble plusieurs fonctionnalités pour aboutir a une solution parfaite.
